@@ -51,12 +51,48 @@ to structured, analyzed, and business-relevant information.
 ## Phase 1: Pandas Foundations
 
 - Day 01: Pandas Fundamentals
-- Day 02: Data Selection & Filtering
-- Day 03: Data Cleaning
-- Day 04: Data Transformation
-- Day 05: GroupBy & Aggregation
-- Day 06: Review & Practice
+- Day 02: Selecting, Indexing & Slicing
+- Day 03: Filtering, Boolean Logic & Sorting
+- Day 04: GroupBy & Aggregation
+- Day 05: Merging, Joining & Concatenating
+- Day 06: Data Types, Missing Values & Duplicates
 - Day 07: Weekly Review
+
+## Week 1 Mini-Project: Pandas Finance & HR Analysis
+
+### Objective
+
+Combine the Pandas skills learned during Week 1 into one end-to-end analysis workflow using the HR Analytics dataset.
+
+### Workflow
+
+- Load and inspect the dataset
+- Select relevant columns
+- Filter records using business conditions
+- Analyze departments using GroupBy
+- Calculate income statistics
+- Perform a basic missing-value check
+- Check for duplicate records
+- Document business-oriented observations
+
+### Skills Applied
+
+- Data loading
+- Data inspection
+- Column selection
+- Boolean filtering
+- Sorting
+- GroupBy and aggregation
+- Missing-value detection
+- Duplicate detection
+
+### Notebook
+
+`notebooks/pandas_notebook.ipynb`
+
+### Status
+
+Completed
 
 ---
 
