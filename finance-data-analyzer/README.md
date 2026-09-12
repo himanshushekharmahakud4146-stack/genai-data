@@ -98,7 +98,7 @@ Completed
 
 ## Phase 2: Exploratory Data Analysis
 
-- Day 08: EDA Fundamentals
+- Day 08: Numpy Fundamentals
 - Day 09: Missing Data & Outliers
 - Day 10: Correlation & Relationships
 - Day 11: Data Visualization
